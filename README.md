@@ -4,7 +4,7 @@ There are seven items in total:
 
 1. 基于模板匹配法实现手写字符识别
 
-![](https://github.com/TreeTse/Pattern_Recognition_Demo/blob/main/image/LetterClassfy.PNG)
+<div align=center>![](https://github.com/TreeTse/Pattern_Recognition_Demo/blob/main/image/LetterClassfy.PNG =250x)
 
 2. K-means聚类算法
 
