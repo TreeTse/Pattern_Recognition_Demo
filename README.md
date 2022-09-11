@@ -27,6 +27,9 @@ There are seven items in total:
    
 5. 神经网络基本实现
 
+<img src="image\TranningRes.png" width="400">
+
+
 6. 支持向量机SVM
 
 
