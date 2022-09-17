@@ -32,4 +32,6 @@ There are seven items in total:
 
 6. 支持向量机SVM
 
+<img src="image\SVMSort.png" width="400">
+
 
